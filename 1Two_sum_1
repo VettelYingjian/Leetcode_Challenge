@@ -19,6 +19,7 @@ public class Solution {
 			    map.put(nums[i], i+1);
 		    }
 	    }
+	    
 	    return res;
     }
 }
